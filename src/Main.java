@@ -10,7 +10,7 @@ System.out.println("Kasia ma psa ");
 System.out.println("Kasia ma psa ");
 System.out.println("Kasia ma psa2 ");
 
-System.out.println("AAAAAA");
+System.out.println("AAAAASDADSAA");
 System.out.println("Kasia ma psa2 ");
 System.out.println("Kasia ma psa ");
 System.out.println("Kasia ma psa2 ");
