@@ -14,8 +14,8 @@ System.out.println("Kasia  jeeeed hthytjytjyj");
 
 System.out.println("Kasia ma psa ");
 System.out.println("Kasia  jeeeed hthytjytjyj");
-System.out.println("Kasia  jeeeed hthytjytjyj");
+System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1111111");
 	}
-	}
+	
 
 }
