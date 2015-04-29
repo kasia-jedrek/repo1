@@ -1,4 +1,4 @@
-package sliwka;
+
 
 public class Main {
 
